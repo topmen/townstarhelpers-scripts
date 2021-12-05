@@ -2,11 +2,13 @@
   {
     "name": "Script 1",
     "desc": "This script is script 1",
-    "priceEth": 0.01
+    "priceEth": 0.01,
+    "encryptedBody": "4FIVwDgzN/AN4Imq+mXxkgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
   },
   {
     "name": "Script 2",
     "desc": "This script is script 2",
-    "priceEth": 0.02
+    "priceEth": 0.02,
+    "encryptedBody": "4FIVwDgzN/AN4Imq+mXxkgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
   }
 ]
