@@ -10,5 +10,11 @@
     "desc": "Simulates a click whenever a new object's construction requirements are met",
     "priceEth": 0.008,
     "fileName": "auto-complete-construction"
-  }
+  },
+  {
+    "name": "Toggle Objects (Gasoline/Petroleum Switch)",
+    "desc": "Turn objects on and off to control production rates. For example, automatically switch between gasoline and petroleum production",
+    "priceEth": 0.015,
+    "fileName": "toggle-objects"
+  },
 ]
