@@ -4,5 +4,11 @@
     "desc": "Monitors the production rate of any craft",
     "priceEth": 0.01,
     "fileName": "production-rate-monitor"
+  },
+  {
+    "name": "Auto-Complete Construction Objects",
+    "desc": "Simulates a click whenever a new object's construction requirements are met",
+    "priceEth": 0.008,
+    "fileName": "auto-complete-construction"
   }
 ]
