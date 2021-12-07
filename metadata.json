@@ -16,5 +16,5 @@
     "desc": "Turn objects on and off to control production rates. For example, automatically switch between gasoline and petroleum production",
     "priceEth": 0.015,
     "fileName": "toggle-objects"
-  },
+  }
 ]
