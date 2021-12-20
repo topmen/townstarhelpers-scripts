@@ -3,30 +3,35 @@
     "name": "Production Rate Monitor Plus",
     "desc": "Monitors the production rate of any craft and estimates your points and profit per hour.",
     "priceEth": 0.01,
-    "fileName": "production-rate-monitor"
+    "fileName": "production-rate-monitor",
+    "thumbnail": "PRN.png"
   },
   {
     "name": "Auto-Complete Construction Objects",
     "desc": "Simulates a click whenever a new object's construction requirements are met.",
     "priceEth": 0.008,
-    "fileName": "auto-complete-construction"
+    "fileName": "auto-complete-construction",
+    "thumbnail": "construction.png"
   },
   {
     "name": "Toggle Objects (Gasoline/Petroleum Switch)",
     "desc": "Turn objects on and off to control production rates. For example, automatically switch between gasoline and petroleum production.",
     "priceEth": 0.015,
-    "fileName": "toggle-objects"
+    "fileName": "toggle-objects",
+    "thumbnail": "refinery.png"
   },
   {
     "name": "Settings GUI",
     "desc": "Manage all of your installed scripts with an in-game user interface. No more refreshing to update scripts!",
     "priceEth": 0.01,
-    "fileName": "settings-gui"
+    "fileName": "settings-gui",
+    "thumbnail": "banner1.png"
   },
   {
     "name": "Auto Sell (free!)",
     "desc": "Just the default autosell script, except this one works with our Settings GUI script. Yours for free!",
     "priceEth": 0.0,
-    "fileName": "auto-sell"
+    "fileName": "auto-sell",
+    "thumbnail": "autosell.png"
   }
 ]
