@@ -25,7 +25,7 @@
     "desc": "Manage all of your installed scripts with an in-game user interface. No more refreshing to update scripts!",
     "priceEth": 0.01,
     "fileName": "settings-gui",
-    "thumbnail": "banner1.png"
+    "thumbnail": "settings.png"
   },
   {
     "name": "Auto Sell (free!)",
